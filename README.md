@@ -2,7 +2,7 @@
 
 I build applied data science and machine learning projects focused on predictive modeling, experimentation, deployment, optimization, and business-facing analytics.
 
-This GitHub profile is organized as a portfolio of cleaned, public project repositories built from graduate coursework and rewritten into recruiter-friendly repo formats.
+This GitHub profile is organized as a portfolio of cleaned, public project repositories built from graduate coursework completed in Western Governors University's (WGU) M.S. in Data Analytics program and rewritten into recruiter-friendly repo formats.
 
 ## Featured Projects
 
